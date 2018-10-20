@@ -1,4 +1,4 @@
-# RFM Customer value calculation using Python Pandas Simple guide/tutorial
+# RFM Customer Value Calculation Using Python Pandas Simple Guide/Tutorial
 ### Recency Frequency And Monetary (RFM)
 RFM is a scoring system commonly used as a means to calculate a customer's value in almost any business/e-commerce.  
 In this example, by using Python3 Pandas library.  
