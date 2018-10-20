@@ -26,13 +26,12 @@ This is simulated to be an online store, selling various products categories
   * Based on pre-defined metrics 0-1.0 scoring, 1 means very indecisive
 13. Email - (random generated)
 
-## Library used
+## Library installs
 ### Python3
-1. pandas
-2. numpy
-3. matplotlib.pyplot
-4. seaborn
-5. random
+1. [Pandas installation guide](https://pandas.pydata.org/pandas-docs/stable/install.html) - Python pandas library
+2. [Seaborn installation guide](https://seaborn.pydata.org/installing.html) - Python data visualization library
+3. [mathPlot installation guide](https://matplotlib.org/faq/installing_faq.html) Python visualization
+5. random - Standard Library
 
 ## Built With
 * [Python](https://www.python.org/download/releases/3.0/) - Language
@@ -47,6 +46,6 @@ This is simulated to be an online store, selling various products categories
 ## Acknowledgments
 ** Data Mocking
 * [mockaroo.com](https://www.mockaroo.com/) - Realistic Data Generator
-* [name-generator](https://www.name-generator.org.uk/quick/) - Simple Name generator
+* [name-generator](https://www.name-generator.org.uk/quick/) - Quick Name generator
 
 
