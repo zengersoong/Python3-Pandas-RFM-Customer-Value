@@ -48,7 +48,7 @@ This is simulated to be an online store, selling various products categories
 * [mockaroo.com](https://www.mockaroo.com/) - Realistic Data Generator
 * [name-generator](https://www.name-generator.org.uk/quick/) - Quick Name generator
 
-## Acknowledgments . 
+## Notice 
 * Seaborn not used, will update in the future to include visualization. 
 * Seaborn component to include cohort study etc
 * Coming soon...
