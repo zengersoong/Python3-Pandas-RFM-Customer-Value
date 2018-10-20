@@ -44,7 +44,7 @@ This is simulated to be an online store, selling various products categories
 * Zenger Soong Cun Yuan
 
 ## Acknowledgments
-** Data Mocking
+#### Data Mocking
 * [mockaroo.com](https://www.mockaroo.com/) - Realistic Data Generator
 * [name-generator](https://www.name-generator.org.uk/quick/) - Quick Name generator
 
