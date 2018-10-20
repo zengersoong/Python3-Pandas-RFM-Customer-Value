@@ -6,7 +6,7 @@ In this example, by using Python3 Pandas library, we can easily calculate and ra
 __*Step by Step instructions are within the ipython notebook code*__
 	
 ## The Data
-### Data handling
+### sampleData.csv / 122 rows 31 Columns
 The csv file contains randomised Id, date fields, emails from random generators.
 This is simulated to be an online store, selling various products categories
 1. Name - (random generated)
@@ -35,8 +35,10 @@ This is simulated to be an online store, selling various products categories
 5. random
 
 ## Built With
-
 * [Python](https://www.python.org/download/releases/3.0/) - Language
+** Python libraries
+* [Pandas](https://pandas.pydata.org/) - Python pandas library
+* [Seaborn](https://seaborn.pydata.org/) - Python data visualization library
 
 ## Authors
 
@@ -46,7 +48,5 @@ This is simulated to be an online store, selling various products categories
 ** Data Mocking
 * [mockaroo.com](https://www.mockaroo.com/) - Realistic Data Generator
 * [name-generator](https://www.name-generator.org.uk/quick/) - Simple Name generator
-** Python libraries
-* [Pandas](https://pandas.pydata.org/) - Python pandas library
-* [Seaborn](https://seaborn.pydata.org/) - Python data visualization library
+
 
