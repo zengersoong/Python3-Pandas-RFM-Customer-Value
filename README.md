@@ -4,6 +4,7 @@ RFM is a scoring system commonly used as a means to calculate a customer's value
 In this example, by using Python3 Pandas library. 
 Click on the Ipynb file to see the outputs step by step
 [RFM (Customer Value)](https://en.wikipedia.org/wiki/RFM_(customer_value)) - Definitions of RFM
+
 __*Step by Step instructions are within the ipython notebook code*__
 	
 ## Datasets
